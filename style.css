@@ -1,0 +1,19 @@
+.first{
+    display:flex;
+    justify-content: space-between;
+    position: relative;
+    right:20px;
+}
+.img1{
+    border-radius: 50%;
+    position:relative;
+    bottom:3px;
+}
+.sss{
+    border-radius: 50%;
+    position:relative;
+    right:5px;
+    bottom:2px;
+    background-color: #CEC9D5;
+    padding:10px;
+}
